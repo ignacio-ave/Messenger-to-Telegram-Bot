@@ -25,10 +25,10 @@ Antes de ejecutar la aplicación, deberá seguir los siguientes pasos:
     Cree un archivo .env en la raíz del proyecto y defina las siguientes variables de entorno:
 
 
-FB_ACCESS_TOKEN=<su_token_de_acceso_de_facebook>
-FB_APP_SECRET=<su_clave_secreta_de_aplicacion_de_facebook>
-TELEGRAM_BOT_TOKEN=<su_token_de_acceso_de_telegram>
-TELEGRAM_CHAT_ID=<su_id_de_chat_de_telegram>
+    FB_ACCESS_TOKEN=<su_token_de_acceso_de_facebook>
+    FB_APP_SECRET=<su_clave_secreta_de_aplicacion_de_facebook>
+    TELEGRAM_BOT_TOKEN=<su_token_de_acceso_de_telegram>
+    TELEGRAM_CHAT_ID=<su_id_de_chat_de_telegram>
 
     Ejecute pipenv install en la raíz del proyecto para instalar las dependencias necesarias.
     Ejecute pipenv shell para activar el entorno virtual.
