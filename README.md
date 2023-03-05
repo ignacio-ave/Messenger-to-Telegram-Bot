@@ -24,7 +24,6 @@ Antes de ejecutar la aplicación, deberá seguir los siguientes pasos:
     Clone este repositorio en su máquina local.
     Cree un archivo .env en la raíz del proyecto y defina las siguientes variables de entorno:
 
-makefile
 
 FB_ACCESS_TOKEN=<su_token_de_acceso_de_facebook>
 FB_APP_SECRET=<su_clave_secreta_de_aplicacion_de_facebook>
