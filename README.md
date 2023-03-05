@@ -37,6 +37,7 @@ Antes de ejecutar la aplicación, deberá seguir los siguientes pasos:
 ## Uso
 
 Una vez que la aplicación esté en funcionamiento, puede probar el bot enviando un mensaje a través de Facebook Messenger o Telegram. El bot responderá automáticamente a cualquier mensaje enviado por el usuario. Si un usuario escribe "estoy interesado", el bot enviará una notificación a Telegram y responderá con un mensaje agradeciendo al usuario por su interés. Si un usuario escribe "ayuda", el bot proporcionará información sobre cómo usar la aplicación.
-Contribuir
+
+## Contribuir
 
 Si desea contribuir a este proyecto, puede enviar una solicitud de extracción con sus cambios propuestos. Antes de hacerlo, asegúrese de haber ejecutado las pruebas unitarias para garantizar que los cambios no rompan la aplicación existente.
