@@ -11,12 +11,12 @@ El bot es capaz de realizar las siguientes funciones:
     Enviar una notificación a Telegram cuando un usuario está interesado en un trabajo.
     Proporcionar ayuda al usuario.
 
-Requisitos
+## Requisitos
 
     Python 3.6 o superior
     Pipenv para manejar las dependencias
 
-Configuración
+## Configuración
 
 Antes de ejecutar la aplicación, deberá seguir los siguientes pasos:
 
@@ -34,7 +34,7 @@ Antes de ejecutar la aplicación, deberá seguir los siguientes pasos:
     Ejecute pipenv shell para activar el entorno virtual.
     Ejecute flask run para iniciar la aplicación.
 
-Uso
+## Uso
 
 Una vez que la aplicación esté en funcionamiento, puede probar el bot enviando un mensaje a través de Facebook Messenger o Telegram. El bot responderá automáticamente a cualquier mensaje enviado por el usuario. Si un usuario escribe "estoy interesado", el bot enviará una notificación a Telegram y responderá con un mensaje agradeciendo al usuario por su interés. Si un usuario escribe "ayuda", el bot proporcionará información sobre cómo usar la aplicación.
 Contribuir
